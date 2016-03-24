@@ -7,5 +7,7 @@
  - pero no hay problema ya lo estamos agarrando
  - entonces ya esta listos para trabajar solo ??
  - si est como va a dar el conflicto ?? pero a veces puede dar conflicto
+ - wedwed
+ - ewdewd
 
 # titulo 2
